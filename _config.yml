@@ -16,12 +16,12 @@
 
 title: jekyll-tutorial
 email: jekyll-tutorial@domain.com
-description: "Super awesome description" # this means to ignore newlines until "baseurl:"
-baseurl: ''
-url: https://mmistakes.github.io
+description: "Super awesome description"
+baseurl : 
+url: https://jekyll-tutorial.github.io
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: jekyll-tutorial
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,22 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "jekyll-tutorial"
+  avatar : "https://avatars1.githubusercontent.com/u/50220475?s=460&v=4"
+  bio    : "Whoah, someone is reading this?"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://jekyll-tutorial.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jekyll-tutorial"
 
 footer:
   links:
