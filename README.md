@@ -1,17 +1,3 @@
-# Minimal Mistakes remote theme starter
+# Jekyll And GitHub pages tutorial
 
-Fork this repo for the quickest method of getting started with the Minimal Mistakes Jekyll theme.
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This is the repo containing the code for the 'Getting Started With Jekyll And GitHub pages' tutorial. The full tutorial can be found on my site [here](https://alexanderjdupree.github.io/blog/guide/tutorial/Getting-Started-With-Jekyll-And-GitHub-Pages/)

@@ -64,10 +64,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jekyll-tutorial.github.io"
+      url: "https://alexanderjdupree.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jekyll-tutorial"
+      url: "https://github.com/alexanderjdupree"
 
 footer:
   links:
